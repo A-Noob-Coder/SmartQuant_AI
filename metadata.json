@@ -1,0 +1,6 @@
+{
+  "name": "SmartQuant AI",
+  "description": "轻量化 AI 驱动的量化交易平台，集成 A 股实时行情、Monaco Python 策略编辑器、模拟撮合引擎、因子参数网格挖掘与 Gemini 深度策略诊断助手。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
